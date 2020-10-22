@@ -1,1 +1,1 @@
-# verbose-octo-carnival
+# Verbose Octo Carnival
